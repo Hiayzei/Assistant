@@ -12,12 +12,14 @@ O assistente oferece várias funcionalidades para ajudá-lo a otimizar sua rotin
 - **Cronômetro Pomodoro:** Acompanhe seu tempo de estudo ou trabalho com a técnica Pomodoro, ajudando a manter a concentração e aumentar a produtividade.
 - **Sistema de Música para Estudo:** Toque músicas ou sons relaxantes para ajudar na concentração durante suas sessões de estudo ou trabalho.
 - **Frases Motivacionais:** Receba frases inspiradoras para manter sua motivação alta e focada nos seus objetivos.
-- **Agenda e Anotações:** Mantenha suas tarefas, compromissos e anotações organizados em um só lugar.
-- **Análise de Dados:** Visualize dados de seus vícios e progresso ao longo do tempo com gráficos interativos.
+- **Anotações:** Mantenha suas tarefas, compromissos e anotações organizados em um só lugar.
+
 
 ## Instalação
 
-Siga os passos abaixo para instalar o assistente e começar a usá-lo:
+Siga os passos abaixo para instalar o assistente como open-source e ajudar o desenvolvimento:
+
+* Abaixe o Python na versão 3.12.4
 
 1. **Clone o repositório:**
 
