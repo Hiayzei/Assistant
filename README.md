@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Bem-vindo ao **Assistente Pessoal para Otimização do Tempo**! Este aplicativo foi desenvolvido para ajudar você a gerenciar seu tempo de maneira eficiente e proporcionar um espaço aconchegante e produtivo para suas atividades diárias.
+Bem-vindo ao **Assistente Pessoal para Otimização do Tempo**! Este aplicativo foi desenvolvido para ajudar você a gerenciar seu tempo de maneira eficiente e proporcionar um espaço simples, aconchegante e produtivo para suas atividades diárias.
 
 O assistente oferece várias funcionalidades para ajudá-lo a otimizar sua rotina, manter o foco e alcançar seus objetivos. Com um design intuitivo e minimalista, o assistente torna suas tarefas diárias mais organizadas e agradáveis.
 
@@ -23,3 +23,20 @@ Siga os passos abaixo para instalar o assistente e começar a usá-lo:
 
    ```bash
    git clone https://github.com/Hiayzei/Assistant.git
+   ```
+
+2. **Abra o repositório:**
+   Abra o arquivo e extraia
+   ```bash
+   cd Assistant
+   ```
+
+3. **Instale as dependências:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Execute o arquivo principal:**
+   ```bash
+   python .\Assistant\src\main.py
+   ```
