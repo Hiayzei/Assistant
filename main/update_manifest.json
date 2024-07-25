@@ -1,0 +1,6 @@
+{
+    "latest_version": "1.1",
+    "files": [
+        {"path": "file1.exe", "url": "https://raw.githubusercontent.com/Hiayzei/Assistant/main/file1.exe"},
+    ]
+}
