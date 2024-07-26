@@ -18,7 +18,7 @@ The assistant offers several features to help you optimize your routine, maintai
 ## Installation
 
 Download Latest Version: https://mega.nz/file/TdYFHAhD#tZTbeDx0QSvpq-sl878B_ni9-b2VAaHSKh5vCGDwS-8
-
+or
 Follow the steps below to install the assistant as open-source and support its development:
 
 * Install Python version 3.12.4
