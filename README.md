@@ -1,44 +1,45 @@
-# Assistente Pessoal para Otimização do Tempo
+# Personal Time Optimization Assistant
 
-## Descrição
+## Description
 
-Bem-vindo ao **Assistente Pessoal para Otimização do Tempo**! Este aplicativo foi desenvolvido para ajudar você a gerenciar seu tempo de maneira eficiente e proporcionar um espaço simples, aconchegante e produtivo para suas atividades diárias.
+Welcome to the **Personal Time Optimization Assistant!** This application is designed to help you manage your time efficiently and provide a simple, cozy, and productive space for your daily activities.
 
-O assistente oferece várias funcionalidades para ajudá-lo a otimizar sua rotina, manter o foco e alcançar seus objetivos. Com um design intuitivo e minimalista, o assistente torna suas tarefas diárias mais organizadas e agradáveis.
+The assistant offers several features to help you optimize your routine, maintain focus, and achieve your goals. With an intuitive and minimalist design, the assistant makes your daily tasks more organized and enjoyable.
 
-## Funcionalidades
+## Features
 
-- **Gerenciamento de Vícios:** Registre e acompanhe seus vícios ao longo do tempo, com gráficos e relatórios para visualização do progresso.
-- **Cronômetro Pomodoro:** Acompanhe seu tempo de estudo ou trabalho com a técnica Pomodoro, ajudando a manter a concentração e aumentar a produtividade.
-- **Sistema de Música para Estudo:** Toque músicas ou sons relaxantes para ajudar na concentração durante suas sessões de estudo ou trabalho.
-- **Frases Motivacionais:** Receba frases inspiradoras para manter sua motivação alta e focada nos seus objetivos.
-- **Anotações:** Mantenha suas tarefas, compromissos e anotações organizados em um só lugar.
+- **Habit Management:** Track and monitor your habits over time, with charts and reports to visualize your progress.
+- **Pomodoro Timer:** Track your study or work time using the Pomodoro technique, helping you stay focused and boost productivity.
+- **Study Music System:** Play relaxing music or sounds to aid concentration during your study or work sessions.
+- **Motivational Quotes:** Receive inspiring quotes to keep your motivation high and focused on your goals.
+- **Notes:** Keep your tasks, appointments, and notes organized in one place.
 
 
-## Instalação
+## Installation
 
-Siga os passos abaixo para instalar o assistente como open-source e ajudar o desenvolvimento:
+Download: https://www.dropbox.com/scl/fi/qo99pkthdniyhwcdiejow/AssistantSetup.exe?rlkey=y4ti2y65rll8q7d0i4jfpuhkt&st=ja9l53p6&dl=0
+Follow the steps below to install the assistant as open-source and support its development:
 
-* Abaixe o Python na versão 3.12.4
+* Install Python version 3.12.4
 
-1. **Clone o repositório:**
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/Hiayzei/Assistant.git
    ```
 
-2. **Abra o repositório:**
-   Abra o arquivo e extraia
+2. **Navigate to the repository:**
+   Open the file and extract
    ```bash
    cd Assistant
    ```
 
-3. **Instale as dependências:**
+3. **Install the dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Execute o arquivo principal:**
+4. **Run the main file:**
    ```bash
    python .\Assistant\src\main.py
    ```
