@@ -44,5 +44,5 @@ Follow the steps below to install the assistant as open-source and support its d
 
 4. **Run the main file:**
    ```bash
-   python .\Assistant\src\main.py
+   py src/main.py
    ```
