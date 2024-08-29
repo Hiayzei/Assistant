@@ -17,7 +17,7 @@ The assistant offers several features to help you optimize your routine, maintai
 
 ## Installation
 
-Download Here: 
+Download Here: https://github.com/Hiayzei/Assistant/releases
 
 or
 
