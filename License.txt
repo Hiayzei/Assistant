@@ -1,0 +1,43 @@
+-------------------------
+End User License Agreement (EULA)
+-------------------------
+
+IMPORTANT: PLEASE READ THIS END USER LICENSE AGREEMENT ("AGREEMENT") CAREFULLY BEFORE INSTALLING OR USING THE ASSISTANT SOFTWARE. BY INSTALLING OR USING THIS SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
+
+1. **License Grant**  
+   The software provided under this Agreement is licensed, not sold. The developer grants you a non-exclusive, non-transferable, and revocable license to use the software solely for personal, non-commercial purposes.
+
+2. **Restrictions**  
+   You may not:  
+   a. Modify, decompile, disassemble, or reverse engineer the software or any part of it.  
+   b. Distribute, rent, lease, or sublicense the software.  
+   c. Use the software for any illegal or unauthorized purposes.  
+   d. Create derivative works based on the software or incorporate any part of it into another software product.
+
+3. **Open Source Components**  
+   This software includes open source components licensed under their respective open source licenses. These components are provided "as is," and their licenses are available in the "Licenses" section included with the software.
+
+4. **Ownership**  
+   The software and all related copyrights and intellectual property rights are owned by the developer or its licensors. You acknowledge that you have no ownership rights in the software.
+
+5. **No Warranty**  
+   The software is provided "as is," without any warranties, express or implied. The developer shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use or inability to use the software, including but not limited to any loss of data or business interruption.
+
+6. **Privacy**  
+   Your privacy is important to us. The software does not collect, store, or use any personally identifiable information. No data is used for analysis, marketing, or sharing with third parties. Any technical data collected for operational purposes is handled with strict confidentiality and is not used for any other purpose.
+
+7. **Termination**  
+   This Agreement is effective until terminated. The developer may terminate this Agreement at any time if you breach any of its terms. Upon termination, you must uninstall and delete all copies of the software and any associated materials.
+
+8. **Feedback**  
+   Any feedback or suggestions provided regarding the software may be used by the developer without any obligation to you.
+
+9. **Entire Agreement**  
+   This Agreement constitutes the entire agreement between you and the developer with respect to the software and supersedes all prior or contemporaneous understandings or agreements, whether written or oral.
+
+By using the software, you acknowledge that you have read and understood our Privacy Policy and consent to the handling of your data as described herein.
+
+If you have any questions or concerns about this Privacy Policy or our data protection practices, please contact us:
+- **Email:** [contactassistantapp@gmail.com]
+
+-------------------------
