@@ -17,7 +17,7 @@ The assistant offers several features to help you optimize your routine, maintai
 
 ## Installation
 
-Download Latest Version: https://mega.nz/file/TdYFHAhD#tZTbeDx0QSvpq-sl878B_ni9-b2VAaHSKh5vCGDwS-8
+Download Here: 
 
 or
 
